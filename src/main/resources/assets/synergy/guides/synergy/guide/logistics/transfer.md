@@ -22,7 +22,7 @@ It can be extended using <ItemLink id="synergy:pipe" />
 
 ## How it work
 
-It will extract items from any storage and insert it at the first storage path-findable without store any item
+It will extract items from any storage and insert it in the first path-findable slot without storing any item
 
 <GameScene zoom="4" interactive={true}>
   <Block x="4" id="minecraft:chest"/>

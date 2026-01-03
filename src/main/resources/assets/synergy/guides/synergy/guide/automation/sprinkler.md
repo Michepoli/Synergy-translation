@@ -12,9 +12,9 @@ item_ids:
 
 # Sprinkler
 
-A block that will speed up the growing of crops around it
+A block that will speed up the growth of crops around it
 
-It require FE to work
+Requires FE to work
 
 <GameScene zoom="2" interactive={true}>
 

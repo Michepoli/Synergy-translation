@@ -12,13 +12,13 @@ item_ids:
 
 # Controller
 
-Core of Quantum Reactors
+Core of the Quantum Reactor
 
-It produce Heat and Energy based on Fuel Cells when actived with a redstone signal
+It produces Heat and Energy based on Fuel Cells when actived with a redstone signal
 
-It has an AOE to define all valid blocks
+It has an AOE where it defines all valid blocks
 
-Right clicking on it will show Heat and FE rate
+Right clicking it will show Heat and FE rate
 
 ## MODES:
 

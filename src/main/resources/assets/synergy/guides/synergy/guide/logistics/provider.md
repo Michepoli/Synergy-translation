@@ -13,15 +13,15 @@ item_ids:
 
 # Provider Nodes
 
-A block that allow to generate resorces based on block patterns
+A block that can generate resources based on block patterns
 
-It can be extended the result output using <ItemLink id="synergy:pipe" />
+It can be extended using <ItemLink id="synergy:pipe" />
 
 <BlockImage id="synergy:item_provider_node" scale="4.0" p:north="false" p:south="false" p:east="false" p:west="false" p:up="false"/>
 
 ## Example #1 : Cobblestone gen
 
-A simple example of how to generate cobblestone
+A simple example on how to generate cobblestone
 
 <GameScene zoom="4" interactive={true}>
   <Block x="-1" id="minecraft:water"/>
@@ -42,7 +42,7 @@ A simple example of how to generate cobblestone
 
 ## Example #2 : Basalt gen
 
-A simple example of how to generate basalt
+A simple example on how to generate basalt
 
 <GameScene zoom="4" interactive={true}>
   <Block x="-1" id="minecraft:blue_ice"/>

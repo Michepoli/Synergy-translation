@@ -26,6 +26,6 @@ item_ids:
 
 # Coolers
 
-Part of Quantum Reactors
+Part of the Quantum Reactor
 
-Used to reduce Heat on specific conditions
+Used to reduce Heat under specific conditions

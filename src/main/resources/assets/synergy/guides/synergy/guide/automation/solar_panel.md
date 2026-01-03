@@ -12,7 +12,7 @@ item_ids:
 
 # Solar Panel
 
-A block that produce FE when can see the sky and is daytime
+A block that produces FE when it's daytime and isn't covered from the sky
 
 <BlockImage id="synergy:solar_panel" scale="4.0" p:north="false" p:south="false" p:east="false" p:west="false" p:enabled="true"/>
 

@@ -9,6 +9,6 @@ categories:
 
 # Automation
 
-Functional blocks with unique features to automate things
+Functional blocks with unique features that can automate things
 
 <CategoryIndex category="automation"></CategoryIndex>

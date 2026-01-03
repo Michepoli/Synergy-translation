@@ -16,13 +16,13 @@ item_ids:
 
 Like <ItemLink id="synergy:item_transfer_node" /> it can transfer things across blocks but it works exactly the other way
 
-It extract things and insert at the storage where it was placed
+It extract and inserts things from blocks
 
 <BlockImage id="synergy:item_retrieval_node" scale="4.0" p:north="false" p:south="false" p:east="false" p:west="false" p:up="false"/>
 
 ## How it work
 
-It will extract items from the first storage available and insert it at the storage placed
+It will extract items from the first storage available and insert them at the storage placed
 
 <GameScene zoom="4" interactive={true}>
   <Block x="4" id="minecraft:chest"/>

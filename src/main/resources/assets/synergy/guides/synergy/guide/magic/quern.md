@@ -12,11 +12,11 @@ item_ids:
 
 # Quern
 
-A functional block that can allow to crush items
+A functional block that can crush items
 
-It can contain only one itemstack at time
+It can contain only one item at a time
 
-To insert on it items you need to right click with it
+To insert an item you need to right click with it
 
 It doesn't have a GUI but can be automated using hoppers or something like that
 

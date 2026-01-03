@@ -12,17 +12,17 @@ item_ids:
 
 # Harvester
 
-A block that harvest and chop stuff
+A block that harvests and chops stuff
 
-It will automatically export items to the nearest storage placed at one of the face of it else it will drop everything harvested!
+It will automatically export items to the nearest connected storage otherwise it will drop everything out!
 
-Configurator can allow to show AOE of this machine
+A configurator can show the AOE of this machine
 
-It require FE to work
+Requires FE to work
 
 <BlockImage id="synergy:harvester" scale="4.0" p:enabled="true"/>
 
-What can harvest :
+What can be harvested :
 
 - any crop mono-block
 - any type of tree and nether fungus
@@ -33,7 +33,7 @@ What can harvest :
 - <ItemLink id="synergy:azalea_seeds"/>
 - <ItemLink id="minecraft:nether_wart"/>
 
-Note: It can harvest trees but dont replant the saplings!
+Note: It can harvest trees but it won't replant the saplings!
 
 <GameScene zoom="2" interactive={true}>
 

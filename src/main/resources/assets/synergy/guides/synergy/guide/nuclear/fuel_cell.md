@@ -12,11 +12,11 @@ item_ids:
 
 # Fuel Cell
 
-Core of Quantum Reactors
+Core of the Quantum Reactor
 
-It process items sending Heat and Energy at any Quantum Reactor Controller connected
+It processes items sending Heat and Energy at any Quantum Reactor Controller connected
 
-When insered an item it will directly store and will release only when fully processed
+When inserted an item it will store it until fully processed
 
 <ItemImage id="synergy:fuel_cell" scale="4.0"/>
 

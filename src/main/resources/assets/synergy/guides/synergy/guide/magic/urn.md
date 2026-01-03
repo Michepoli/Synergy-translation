@@ -12,11 +12,11 @@ item_ids:
 
 # Urn
 
-A functional block that can allow to infuse items
+A functional block that can infuse items
 
-It can contain nine itemstacks
+It contain up to nine items
 
-To insert on it items you need to right click with it
+To insert an item you need to right click with it
 
 It doensn't have a GUI but can be automated using hoppers or something like that
 
